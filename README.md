@@ -1,3 +1,7 @@
+# CONTEXT : 
+
+This project was a group assignment realised in the context of our Cloud Security course in Eurecom, 
+
 # POC for the Privacy-Preserving Aggregation of Time-Series Data paper from ndss2011
 
 Implementating the summation protocol presented.
